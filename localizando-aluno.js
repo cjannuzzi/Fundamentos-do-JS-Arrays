@@ -13,6 +13,6 @@ const exibeNomeNota = (nomeDoAluno) => {
     } else{
         return "Aluno não esta cadastrado"
     }
-}
+};
 
-console.log(exibeNomeNota("Caio"))
+console.log(exibeNomeNota("Caio"));
