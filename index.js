@@ -3,6 +3,6 @@ function multiplicaPorDez(num) {
     return num * 10
 };
  
-const arraySomada = arrayNums.map(num => num * 10)
+const arraySomada = arrayNums.map(num => num * 10);
 
-console.log(arraySomada)
+console.log(arraySomada);
