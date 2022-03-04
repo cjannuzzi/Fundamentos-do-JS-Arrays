@@ -3,13 +3,13 @@
 const listaDeChamada = ['João', 'Ana', 'Caio', 'Lara', 'Marjore', 'Leo'];
 
 // listaDeChamada.splice(1,2,'Rodrigo');
-listaDeChamada.splice(2,0,'Rodrigo')
+listaDeChamada.splice(2,0,'Rodrigo');
 
-console.log(`Lista de chamada: ${listaDeChamada}`)
+console.log(`Lista de chamada: ${listaDeChamada}`);
 
-const animaisDoAquario = ['baleia', 'polvo', 'golfinho', 'tubarao']
+const animaisDoAquario = ['baleia', 'polvo', 'golfinho', 'tubarao'];
 
-animaisDoAquario.splice(1,0,'peixeiazl1')
-animaisDoAquario.splice(3,2,'peixeiazl2')
+animaisDoAquario.splice(1,0,'peixeiazl1');
+animaisDoAquario.splice(3,2,'peixeiazl2');
 
-console.log(animaisDoAquario)
+console.log(animaisDoAquario);
