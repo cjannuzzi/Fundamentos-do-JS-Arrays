@@ -9,6 +9,6 @@ notas.forEach (nota =>{
     somaDasNotas += nota
 });
 
-let media = somaDasNotas/notas.length
+let media = somaDasNotas/notas.length;
 
 console.log(media);
